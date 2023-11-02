@@ -1,6 +1,6 @@
 # [Gavin E. Crooks](https://threeplusone.com) Repositories
 
-## Books, Papers, and other expositions
+## Books, Papers, and Expositions
 
 * [Field Guide to Continuous Probability Distributions](https://github.com/gecrooks/fieldguide)
 
