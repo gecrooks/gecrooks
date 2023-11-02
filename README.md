@@ -1,16 +1,18 @@
-### Hi there 👋
+### Gavin E. Crooks Repositories
 
-<!--
-**gecrooks/gecrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bioinformatics
 
-Here are some ideas to get you started:
+# [WebLogo]()
+A web-based application designed to make the generation of sequence logos. <https://weblogo.threeplusone.com>
+  
+## Quantum Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [QuantumFlow](https://github.com/gecrooks/quantumflow)
+A Quantum Algorithms Development Toolkit in python
+
+# [qf-diamond-norm](https://github.com/gecrooks/qf-diamond-norm)
+Python code for calculating the diamond norm with semidefinite programming.
+
+# [Gates, States, and Circuits](https://github.com/gecrooks/on_gates)
+
+## Probability
