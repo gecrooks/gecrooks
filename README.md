@@ -1,5 +1,10 @@
 # [Gavin E. Crooks](https://threeplusone.com) Repositories
 
+<div style="text-align:center;">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=gecrooks&show_icons=true&count_private=true&theme=transparent" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gecrooks&layout=compact&count_private=true&theme=transparent" />
+</div>
+
 ## Books, Papers, and Expositions
 
 * [Field Guide to Continuous Probability Distributions](https://github.com/gecrooks/fieldguide)
