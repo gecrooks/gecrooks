@@ -5,7 +5,7 @@
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gecrooks&layout=compact&count_private=true&theme=transparent" />
 </div>
 
-## Books, Papers, and Expositions
+## Source Files for Books, Papers, and Expositions
 
 * [Field Guide to Continuous Probability Distributions](https://github.com/gecrooks/fieldguide)
 
