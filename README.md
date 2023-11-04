@@ -23,6 +23,11 @@
 
 * [qf-diamond-norm](https://github.com/gecrooks/qf-diamond-norm): Python code for calculating the diamond norm with semidefinite programming.
 
+## 3D Printing
+
+* [landscape2stl](https://github.com/gecrooks/landscape2stl): High resolution terrain models for 3D printing
+  
+* [shapes2stl](https://github.com/gecrooks/shapes2stl): Python script to generate STLs for all of the Platonic, Archimedean, Catalan, and Johnson solids, along with a selection of prisms and anti-prisms.
 
 ## General Coding
 
