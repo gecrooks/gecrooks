@@ -9,7 +9,7 @@
 
 * [Field Guide to Continuous Probability Distributions](https://github.com/gecrooks/fieldguide)
 
-* [Gates, States, and Circuits](https://github.com/gecrooks/on_gates): Exposition on quantum gates and related subjects.
+* [Quantum Gates](https://github.com/gecrooks/on_gates): Notes on quantum gates and the circuit model of quantum computation.
 
 * [Weyl chamber of Canonical non-local 2-qubit gates](https://github.com/gecrooks/on_weyl): A papercraft model: Print, cut, fold, and paste 
 
