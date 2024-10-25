@@ -31,6 +31,8 @@
 
 ## General Coding
 
+* [ThermoFlow](https://github.com/gecrooks/thermoflow): Python package for thermodynamic calculations
+
 * [modern-python-template](https://github.com/gecrooks/modern-python-template): Minimal Viable Product for an open source, github hosted, python package
 
 * [sealionengine](https://github.com/gecrooks/sealionengine): Kaggle NOAA Sea Lion Count Prognostication Engine. Code to munge the source data into a useable form for training. 
