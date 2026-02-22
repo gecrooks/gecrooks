@@ -1,9 +1,5 @@
 # [Gavin E. Crooks](https://threeplusone.com) Repositories
 
-<div style="text-align:center;">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=gecrooks&show_icons=true&count_private=true&theme=transparent" />
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gecrooks&layout=compact&count_private=true&theme=transparent" />
-</div>
 
 ## Source Files for Books, Papers, and Expositions
 
@@ -32,8 +28,6 @@
 ## General Coding
 
 * [ThermoFlow](https://github.com/gecrooks/thermoflow): Python package for thermodynamic calculations
-
-* [modern-python-template](https://github.com/gecrooks/modern-python-template): Minimal Viable Product for an open source, github hosted, python package
 
 * [sealionengine](https://github.com/gecrooks/sealionengine): Kaggle NOAA Sea Lion Count Prognostication Engine. Code to munge the source data into a useable form for training. 
 
